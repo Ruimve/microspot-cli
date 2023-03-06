@@ -1,7 +1,7 @@
 {
-  "name": "tempalte-lib-rollup",
+  "name": "microspot-cli",
   "version": "1.0.0",
-  "description": "",
+  "description": "监控命令行工具",
   "main": "es/index.js",
   "types": "types/index.d.ts",
   "author": "jingyu",
@@ -19,12 +19,12 @@
   "keywords": [],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/robot12580/TEMPALTE-LIB-ROLLUP.git"
+    "url": "git+https://github.com/robot12580/microspot-cli.git"
   },
   "bugs": {
-    "url": "https://github.com/robot12580/TEMPALTE-LIB-ROLLUP/issues"
+    "url": "https://github.com/robot12580/microspot-cli/issues"
   },
-  "homepage": "https://github.com/robot12580/TEMPALTE-LIB-ROLLUP#readme",
+  "homepage": "https://github.com/robot12580/microspot-cli#readme",
   "dependencies": {
     "typescript": "^4.9.4"
   },

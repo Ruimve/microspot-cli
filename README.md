@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>模板库</h1>
+  <h1>microspot-cli</h1>
 
   <a href="https://github.com/robot12580">
     <img
@@ -9,7 +9,7 @@
     />
   </a>
 
-  <p>模板库简介</p>
+  <p>监控命令行工具</p>
 </div>
 
 ## 架构
